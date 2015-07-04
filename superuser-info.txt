@@ -1,5 +1,1 @@
 (myvenv) ~/djangogirls$ python manage.py createsuperuser
-Username: admin
-Email address: janebrodie@gmail.com
-Password: testblog123
-Password (again): testblog123
