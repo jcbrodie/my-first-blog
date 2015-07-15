@@ -1,1 +1,0 @@
-(myvenv) ~/djangogirls$ python manage.py createsuperuser
